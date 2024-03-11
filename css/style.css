@@ -14,7 +14,7 @@ html{
   height: 100vh;
   display: flex;
   justify-content: start;
-  align-items: center;
+  align-items: start;
   flex-direction: column;
   background-color: #09283E;
 }
