@@ -34,6 +34,7 @@ img:hover{
 .container h1{
   color: #FFF;
   margin-top: 15px;
+  flex-direction: column;
 }
 
 .container span{
